@@ -1,0 +1,15 @@
+{
+    "name": "jeremeallen/demo41",
+    "autoload": {
+        "psr-4": {
+            "Jeremeallen\\Demo41\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jereme Allen",
+            "email": "jallen@allensservices.com"
+        }
+    ],
+    "require": {}
+}
